@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Boyoung Han
+- 👀 I’m interested in Homomorphic Encryption and Data Science
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me via email : byhan2253@seoultech.ac.kr
