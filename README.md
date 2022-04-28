@@ -6,9 +6,9 @@
 - 💜 You can visit my page(https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23)
 
 ## Repository</br>
-[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection).   [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
-[![shipbuilding](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=project_shipbuilding&theme=buefy&show_owner=True)](https://github.com/bobo-0/project_shipbuilding).   [![laboratory](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=laboratory&theme=buefy&show_owner=True)](https://github.com/bobo-0/laboratory)
-[![TIL](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=TIL&theme=buefy&show_owner=True)](https://github.com/bobo-0/TIL).   [![seminar](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=seminar&theme=buefy&show_owner=True)](https://github.com/bobo-0/seminar)
+[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection)      [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
+[![shipbuilding](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=project_shipbuilding&theme=buefy&show_owner=True)](https://github.com/bobo-0/project_shipbuilding)     [![laboratory](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=laboratory&theme=buefy&show_owner=True)](https://github.com/bobo-0/laboratory)
+[![TIL](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=TIL&theme=buefy&show_owner=True)](https://github.com/bobo-0/TIL)      [![seminar](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=seminar&theme=buefy&show_owner=True)](https://github.com/bobo-0/seminar)
 
 
 
