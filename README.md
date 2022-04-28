@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Boyoung%20Han&fontSize=90)
 
-- ❤️‍🔥 Hi, I’m Boyoung Han
+
 - 🧡 I’m interested in Homomorphic Encryption and Data Science
 - 💛 I’m currently learning Data Science
 - 💚 I graduated department of ITM in Seoultech
