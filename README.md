@@ -6,7 +6,7 @@
 - 💜 You can visit my page(https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23)
 
 ## Status</br>
-![bobo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobo-0&bg_color=30,87cefa,9370db&title_color=fff&text_color=fff) 
+![bobo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobo-0&theme=material-palenight&show_icons=true) 
 
 ## I solved..
 [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=bobo0)](https://solved.ac/bobo0)
