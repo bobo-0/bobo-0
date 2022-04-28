@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/-HEaaN-green"/>&nbsp;
   <img src="https://img.shields.io/badge/-Information Security-yellowgreen"/>&nbsp;
   <br><br>
+  <a href="https://itm.seoultech.ac.kr/"><img src="https://img.shields.io/badge/IT Management-21130d?style=flat-square&logo=Google Scholar&logoColor=white&link=https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23"/></a>&nbsp;
+  <a href="http://data.seoultech.ac.kr/"><img src="https://img.shields.io/badge/DataScience-0d1854?style=flat-square&logo=Databricks&logoColor=white&link=https://www.linkedin.com/in/byhan2253"/></a>&nbsp;
+  <br><br>
   <a href="https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23"><img src="https://img.shields.io/badge/Notion-21130d?style=flat-square&logo=Notion&logoColor=white&link=https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/byhan2253"><img src="https://img.shields.io/badge/Linkedin-1e81b0?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/byhan2253"/></a>&nbsp;
   <a href="mailto:byhan2253@ds.seoultech.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byhan2253@ds.seoultech.ac.kr"/></a>
