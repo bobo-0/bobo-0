@@ -4,12 +4,12 @@
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp;
   <img src="https://img.shields.io/badge/-Pytorch-blueviolet"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Android-green"/>&nbsp;  
+  <img src="https://img.shields.io/badge/-Android-lightgrey"/>&nbsp;  
   <br>
   <img src="https://img.shields.io/badge/-AWS-yellow"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Linux-brightgreen"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Linux-lightgrey"/>&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/-Homomorpic Encryption-green"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Homomorpic Encryption-brightgreen"/>&nbsp;
   <img src="https://img.shields.io/badge/-HEaaN-green"/>&nbsp;
   <img src="https://img.shields.io/badge/-Information Security-yellowgreen"/>&nbsp;
   <br><br>
