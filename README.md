@@ -6,7 +6,7 @@
 - 💜 You can visit my page(https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23)
 
 ## Repository</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection)](https://github.com/anuraghazra/deepfake_detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=material-palenight)](https://github.com/bobo-0/deepfake_detection)
 
 
 ## I solved..
