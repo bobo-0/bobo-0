@@ -5,8 +5,9 @@
 - 💙 You can reach me via email : byhan2253@seoultech.ac.kr
 - 💜 You can visit my page(https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23)
 
-## Status</br>
-![bobo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobo-0&theme=material-palenight&show_icons=true) 
+## Repository</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection)](https://github.com/anuraghazra/deepfake_detection)
+
 
 ## I solved..
 [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=bobo0)](https://solved.ac/bobo0)
