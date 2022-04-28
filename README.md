@@ -1,10 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E0bdf9&fontColor=3c0464&height=100&section=header&text=Boyoung%20Han&fontSize=50)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Pytorch-blueviolet"/>&nbsp  
+  <img src="https://img.shields.io/badge/-Android-green"/>&nbsp  
+  <br>
+  <img src="https://img.shields.io/badge/-AWS-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-Linux-brightgreen"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-Homomorpic Encryption-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-HEaaN-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-Information Security-yellowgreen"/>&nbsp
+</p>
+
+<a href="https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23"><img src="https://img.shields.io/badge/Notion-262626?style=flat-square&logo=Notion&logoColor=white&link=https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/byhan2253"><img src="https://img.shields.io/badge/Linkedin-11B48A?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/byhan2253"/></a>&nbsp
+  <a href="byhan2253@ds.seoultech.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byhan2253@ds.seoultech.ac.kr"/></a>
 
 - 🧡  &nbsp; I’m interested in Homomorphic Encryption and Data Science
 - 💛  &nbsp; I’m currently learning Data Science
 - 💚  &nbsp; I graduated department of ITM in Seoultech
-- 💙  &nbsp; You can reach me via email : byhan2253@seoultech.ac.kr
-- 💜  &nbsp; You can visit my [notion  page](https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23)
 
 ## Repository
 [![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detectio) &nbsp; &nbsp; [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
