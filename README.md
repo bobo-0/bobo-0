@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Boyoung%20Han&fontSize=90)
 
 - ❤️‍🔥 Hi, I’m Boyoung Han
 - 🧡 I’m interested in Homomorphic Encryption and Data Science
