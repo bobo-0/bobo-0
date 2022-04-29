@@ -26,7 +26,7 @@
 
 
 ## Repository
-[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detectio) &nbsp; &nbsp; [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
+[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection) &nbsp; &nbsp; [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
 [![shipbuilding](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=project_shipbuilding&theme=buefy&show_owner=True)](https://github.com/bobo-0/project_shipbuilding) &nbsp; &nbsp; [![laboratory](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=laboratory&theme=buefy&show_owner=True)](https://github.com/bobo-0/laboratory)
 [![TIL](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=TIL&theme=buefy&show_owner=True)](https://github.com/bobo-0/TIL) &nbsp; &nbsp; [![seminar](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=seminar&theme=buefy&show_owner=True)](https://github.com/bobo-0/seminar)
 
