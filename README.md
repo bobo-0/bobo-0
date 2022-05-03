@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E0bdf9&fontColor=3c0464&height=100&section=header&text=Boyoung%20Han&fontSize=50)
 
-<p align="center">
+<div align=center> 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
   ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)&nbsp;
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=black)&nbsp;
@@ -19,8 +19,7 @@
   <a href="https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23"><img src="https://img.shields.io/badge/Notion-21130d?style=flat-square&logo=Notion&logoColor=white&link=https://b0b0.notion.site/Boyoung-Han-509d7791ea714453ab3e74e106889e23"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/byhan2253"><img src="https://img.shields.io/badge/Linkedin-1e81b0?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/byhan2253"/></a>&nbsp;
   <a href="mailto:byhan2253@ds.seoultech.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byhan2253@ds.seoultech.ac.kr"/></a>
-</p>
-
+</div>
 
 ## Repository
 [![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection) &nbsp; &nbsp; [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
