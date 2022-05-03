@@ -1,20 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E0bdf9&fontColor=3c0464&height=100&section=header&text=Boyoung%20Han&fontSize=50)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Pytorch-blueviolet"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Android-lightgrey"/>&nbsp;  
-  <br>
-  <img src="https://img.shields.io/badge/-AWS-yellow"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Linux-lightgrey"/>&nbsp;
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)&nbsp;
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=black)&nbsp;
+  ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonaws&logoColor=yellow)&nbsp;
+  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
   <br>
   <img src="https://img.shields.io/badge/-Homomorpic Encryption-brightgreen"/>&nbsp;
   <img src="https://img.shields.io/badge/-HEaaN-green"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Information Security-yellowgreen"/>&nbsp;
-   <br>
-  <img src="https://img.shields.io/badge/-Machine Learning-brightgreen"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Deep Learning-green"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Information Security-lightgrey"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Machine Learning-blue"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Deep Learning-yellowgreen"/>&nbsp;
   <br><br>
   <a href="https://itm.seoultech.ac.kr/"><img src="https://img.shields.io/badge/IT Management-696969?style=flat-square&logo=Google Scholar&logoColor=white&link=https://itm.seoultech.ac.kr/"/></a>&nbsp;
   <a href="http://data.seoultech.ac.kr/"><img src="https://img.shields.io/badge/DataScience-0d1854?style=flat-square&logo=Databricks&logoColor=white&link=http://data.seoultech.ac.kr/"/></a>&nbsp;
