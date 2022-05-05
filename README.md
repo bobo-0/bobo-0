@@ -41,7 +41,7 @@
 ## Study
 * 알고리즘 공부
     * 개인적으로 공부한 알고리즘
-    * 백준, 프로그래머스 알고리즘 문제 해결 
+    * 백준, 프로그래머스 알고리즘 문제 해결
     [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
 
 * Today I Learn
