@@ -25,7 +25,6 @@
 </div>
 
 ## Project
-----
 * Deepfake Detection Project
     * Deep Fake Detection Challenge(DFDC) 데이터를 활용
     * 원본 동영상에 색상 변화를 주었을때의 정확도 차이를 실험
@@ -39,7 +38,6 @@
 
 
 ## Study
-----
 * 알고리즘 공부
     * 개인적으로 공부한 알고리즘
     * 백준, 프로그래머스 알고리즘 문제 해결
