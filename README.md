@@ -29,9 +29,11 @@
     * Deep Fake Detection Challenge(DFDC) 데이터를 활용
     * 원본 동영상에 색상 변화를 주었을때의 정확도 차이를 실험
     [![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection)  
+    
 * 전자제조데이터 분석 프로젝트
     * 중앙해양중공업의 데이터를 활용한 프로젝트
 [![shipbuilding](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=project_shipbuilding&theme=buefy&show_owner=True)](https://github.com/bobo-0/project_shipbuilding)
+
 * 서울과학기술대학교 정보보안연구실
     * 연구실에서 진행한 프로젝트 및 세미나
 [![laboratory](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=laboratory&theme=buefy&show_owner=True)](https://github.com/bobo-0/laboratory)
@@ -42,9 +44,11 @@
     * 개인적으로 공부한 알고리즘
     * 백준, 프로그래머스 알고리즘 문제 해결
 [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
+
 * Today I Learn
     * 공부한 것
-[![TIL](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=TIL&theme=buefy&show_owner=True)](https://github.com/bobo-0/TIL) 
+[![TIL](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=TIL&theme=buefy&show_owner=True)](https://github.com/bobo-0/TIL)
+
 * 서울과학기술대학교 데이터사이언스학과
     * 학과 세미나시간에 알게 된 것
 [![seminar](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=seminar&theme=buefy&show_owner=True)](https://github.com/bobo-0/seminar)
