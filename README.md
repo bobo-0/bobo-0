@@ -45,9 +45,9 @@
 [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
 
 * Today I Learn
-    * 공부한 것 
+    * 공부한 것 \\
 [![TIL](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=TIL&theme=buefy&show_owner=True)](https://github.com/bobo-0/TIL) 
 
 * 서울과학기술대학교 데이터사이언스학과
-    * 학과 세미나시간에 알게 된 것 
+    * 학과 세미나시간에 알게 된 것 \\
 [![seminar](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=seminar&theme=buefy&show_owner=True)](https://github.com/bobo-0/seminar)
