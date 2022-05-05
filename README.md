@@ -29,7 +29,7 @@
     * Deep Fake Detection Challenge(DFDC) 데이터를 활용 
     * 원본 동영상에 색상 변화를 주었을때의 정확도 차이를 실험 
 
-[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection)  
 
 * 전자제조데이터 분석 프로젝트
     * 중앙해양중공업의 데이터를 활용한 프로젝트 
