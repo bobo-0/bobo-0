@@ -36,10 +36,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shipbuilding](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=project_shipbuilding&theme=buefy&show_owner=True)](https://github.com/bobo-0/project_shipbuilding)
 
-* 서울과학기술대학교 정보보안연구실(2021~)
-    * 연구실에서 진행한 프로젝트 및 세미나 
+* Segmented Style Transfer(2019)
+    * Semantic Segmentation + Style Transfer
+    * 자연에 있는 거북이 사진을 꼬북이로,,?!
+    * 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=artificial-intelligence&theme=buefy&show_owner=True)]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![laboratory](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=laboratory&theme=buefy&show_owner=True)](https://github.com/bobo-0/laboratory)
+
 
 ## Study
 * 알고리즘 공부
