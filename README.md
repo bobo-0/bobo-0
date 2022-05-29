@@ -25,22 +25,23 @@
 </div>
 
 ## Project
-* Deepfake Detection Project(2022)
+* Deepfake Detection Project
     * Deep Fake Detection Challenge(DFDC) 데이터를 활용 
     * 원본 동영상에 색상 변화를 주었을때의 정확도 차이를 실험 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection)  
 
-* 전자제조데이터 분석 프로젝트(2021)
-    * 중앙해양중공업의 데이터를 활용한 프로젝트 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shipbuilding](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=project_shipbuilding&theme=buefy&show_owner=True)](https://github.com/bobo-0/project_shipbuilding)
-
-* Segmented Style Transfer(2019)
+* Segmented Style Transfer
     * Semantic Segmentation + Style Transfer
     * 자연에 있는 거북이 사진을 꼬북이로,,?!
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=artificial-intelligence&theme=buefy&show_owner=True)](https://github.com/bobo-0/artificial-intelligence)
+
+* 전자제조데이터 분석 프로젝트
+    * 중앙해양중공업의 데이터를 활용한 프로젝트 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shipbuilding](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=project_shipbuilding&theme=buefy&show_owner=True)](https://github.com/bobo-0/project_shipbuilding)
+
 
 
 ## Study
