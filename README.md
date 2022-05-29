@@ -40,8 +40,7 @@
     * Semantic Segmentation + Style Transfer
     * 자연에 있는 거북이 사진을 꼬북이로,,?!
     * 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=artificial-intelligence&theme=buefy&show_owner=True)]
-(https://github.com/bobo-0/artificial-intelligence)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=artificial-intelligence&theme=buefy&show_owner=True)](https://github.com/bobo-0/artificial-intelligence)
 
 
 ## Study
