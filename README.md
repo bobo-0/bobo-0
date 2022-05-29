@@ -43,6 +43,12 @@
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=withyou&theme=buefy&show_owner=True)](https://github.com/bobo-0/withyou)
 
+* Web platform for gig economy
+    * Building a webpage
+    * 네덜란드 헤이그 공과대학교 EPS 학기 팀 프로젝트
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=EuropeanProjectSemester&theme=buefy&show_owner=True)](https://github.com/bobo-0/EuropeanProjectSemester)
+
 * 전자제조데이터 분석 프로젝트
     * 중앙해양중공업의 데이터를 활용한 프로젝트 
 
