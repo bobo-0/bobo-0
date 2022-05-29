@@ -37,6 +37,12 @@
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=artificial-intelligence&theme=buefy&show_owner=True)](https://github.com/bobo-0/artificial-intelligence)
 
+* Rental Service Android Application
+    * Android Applicatoin
+    * 학생회 물품 대여 서비스 어플리케이션 개발
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=withyou&theme=buefy&show_owner=True)](https://github.com/bobo-0/withyou)
+
 * 전자제조데이터 분석 프로젝트
     * 중앙해양중공업의 데이터를 활용한 프로젝트 
 
