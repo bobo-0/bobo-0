@@ -37,6 +37,12 @@
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=artificial-intelligence&theme=buefy&show_owner=True)](https://github.com/bobo-0/artificial-intelligence)
 
+* Analysis between Cyberattacks and Tweets
+    * 트위터에서 활동하는 해커들의 트윗과 실제 사이버 공격과의 연관성 파악
+    * 크롤링, 그래프 네트워크, 시계열 예측
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=cyberattack&theme=buefy&show_owner=True)](https://github.com/bobo-0/cyberattack)
+
 * Rental Service Android Application
     * Android Applicatoin
     * 학생회 물품 대여 서비스 어플리케이션 개발
