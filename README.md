@@ -69,6 +69,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
 
+* 동형암호 공부
+    * 개인적으로 공부한 동형암호
+    * 동형암호 시뮬레이터 pi-heaan을 활용하여 프로그래밍
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pi-heaan](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=pi-heaan&theme=buefy&show_owner=True)](https://github.com/bobo-0/pi-heaan)
 
 * 서울과학기술대학교 데이터사이언스학과
     * 학과 세미나시간에 알게 된 것
