@@ -5,13 +5,13 @@
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
   ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)&nbsp;
-  ![pi-HEaaN](https://img.shields.io/badge/1Password-334455.svg?style=flat-square&logo=pytorch&logoColor=white)&nbsp;
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=black)&nbsp;
   ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonaws&logoColor=yellow)&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
   <br>
   <img src="https://img.shields.io/badge/-Homomorpic Encryption-brightgreen"/>&nbsp;
   <img src="https://img.shields.io/badge/-HEaaN-green"/>&nbsp;
+  <img src="https://img.shields.io/badge/-pi-HEaaN-darkgreen"/>&nbsp;
   <img src="https://img.shields.io/badge/-Information Security-lightgrey"/>&nbsp;
   <img src="https://img.shields.io/badge/-Machine Learning-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-Deep Learning-yellowgreen"/>&nbsp;
