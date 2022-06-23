@@ -11,7 +11,7 @@
   <br>
   <img src="https://img.shields.io/badge/-Homomorpic Encryption-brightgreen"/>&nbsp;
   <img src="https://img.shields.io/badge/-HEaaN-green"/>&nbsp;
-  <img src="https://img.shields.io/badge/-pi\-HEaaN-yellogreen"/>&nbsp;
+  <img src="https://img.shields.io/badge/-pi HEaaN-yellogreen"/>&nbsp;
   <img src="https://img.shields.io/badge/-Information Security-lightgrey"/>&nbsp;
   <img src="https://img.shields.io/badge/-Machine Learning-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-Deep Learning-yellowgreen"/>&nbsp;
