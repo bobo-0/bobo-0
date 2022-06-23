@@ -2,7 +2,7 @@
 
 
 <div align=center> 
-  <img alt="Python" img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54/>
+
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
   ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)&nbsp;
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=black)&nbsp;
@@ -11,7 +11,7 @@
   <br>
   <img src="https://img.shields.io/badge/-Homomorpic Encryption-brightgreen"/>&nbsp;
   <img src="https://img.shields.io/badge/-HEaaN-green"/>&nbsp;
-  <img src="https://img.shields.io/badge/-pi-HEaaN-yellogreen"/>&nbsp;
+  <img src="https://img.shields.io/badge/-pi\-HEaaN-yellogreen"/>&nbsp;
   <img src="https://img.shields.io/badge/-Information Security-lightgrey"/>&nbsp;
   <img src="https://img.shields.io/badge/-Machine Learning-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-Deep Learning-yellowgreen"/>&nbsp;
