@@ -44,6 +44,12 @@
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=cyberattack&theme=buefy&show_owner=True)](https://github.com/bobo-0/cyberattack)
 
+* 전자제조데이터 분석 프로젝트
+    * 중앙해양중공업의 데이터를 활용한 프로젝트
+    * selenium을 활용한 webcrawler
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shipbuilding](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=project_shipbuilding&theme=buefy&show_owner=True)](https://github.com/bobo-0/project_shipbuilding)
+
 * Rental Service Android Application
     * Android Applicatoin
     * 학생회 물품 대여 서비스 어플리케이션 개발
@@ -56,10 +62,6 @@
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=EuropeanProjectSemester&theme=buefy&show_owner=True)](https://github.com/bobo-0/EuropeanProjectSemester)
 
-* 전자제조데이터 분석 프로젝트
-    * 중앙해양중공업의 데이터를 활용한 프로젝트 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shipbuilding](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=project_shipbuilding&theme=buefy&show_owner=True)](https://github.com/bobo-0/project_shipbuilding)
 
 
 
@@ -70,11 +72,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
 
-* 동형암호 공부
-    * 개인적으로 공부한 동형암호
-    * 동형암호 시뮬레이터 pi-heaan을 활용하여 프로그래밍
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pi-heaan](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=pi-heaan&theme=buefy&show_owner=True)](https://github.com/bobo-0/pi-heaan)
 
 * 서울과학기술대학교 데이터사이언스학과
     * 학과 세미나시간에 알게 된 것
