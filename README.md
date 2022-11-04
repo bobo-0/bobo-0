@@ -66,6 +66,12 @@
 
 
 ## Study
+* 동형암호 공부
+    * 개인적으로 공부한 동형암호
+    * 동형암호 시뮬레이터 pi-heaan을 활용하여 프로그래밍
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pi-heaan](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=pi-heaan&theme=buefy&show_owner=True)](https://github.com/bobo-0/pi-heaan)
+
 * 알고리즘 공부
     * 개인적으로 공부한 알고리즘
     * 백준, 프로그래머스 알고리즘 문제 해결
