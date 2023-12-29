@@ -27,9 +27,10 @@
 </div>
 
 ## Project
-* [Fully Homomorphic Privacy-Preserving Naive Bayes Machine Learning and Classification](https://dl.acm.org/doi/abs/10.1145/3605759.3625262)
+* Fully Homomorphic Privacy-Preserving Naive Bayes Machine Learning and Classification
     * 2023년 2월 서울과학기술대학교 데이터사이언스학과 석사 졸업
     * WAHC'23 발표
+    * [논문](https://dl.acm.org/doi/abs/10.1145/3605759.3625262)
       
 * Deepfake Detection Project
     * Deep Fake Detection Challenge(DFDC) 데이터를 활용 
