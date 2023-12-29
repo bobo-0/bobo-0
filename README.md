@@ -28,7 +28,9 @@
 
 ## Project
 * Fully Homomorphic Privacy-Preserving Naive Bayes Machine Learning and Classification
-    * 2023년 2월 서울과학기술대학교 데이터사이언스학과 석사 졸업
+    * 완전 동형 암호를 활용한 나이브베이즈 분류기 설계
+    * 4개의 데이터로 모델 검증
+    * 2023년 2월 서울과학기술대학교 데이터사이언스학과 석사 졸업 논문
     * WAHC'23 발표
     * [논문](https://dl.acm.org/doi/abs/10.1145/3605759.3625262)
       
