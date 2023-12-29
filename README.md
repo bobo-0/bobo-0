@@ -10,11 +10,11 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
   <br>
   <img src="https://img.shields.io/badge/-Homomorpic Encryption-brightgreen"/>&nbsp;
-  <img src="https://img.shields.io/badge/-HEaaN-green"/>&nbsp;
-  <img src="https://img.shields.io/badge/-pi HEaaN-yellogreen"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Information Security-lightgrey"/>&nbsp;
+  <img src="https://img.shields.io/badge/-PET-green"/>&nbsp;
+  <img src="https://img.shields.io/badge/-HEaaN-yellogreen"/>&nbsp;
   <img src="https://img.shields.io/badge/-Machine Learning-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-Deep Learning-yellowgreen"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Information Security-lightgrey"/>&nbsp;
   <br><br>
  
   <a href="http://data.seoultech.ac.kr/"><img src="https://img.shields.io/badge/DataScience-0d1854?style=flat-square&logo=Databricks&logoColor=white&link=http://data.seoultech.ac.kr/"/></a>&nbsp;
@@ -27,7 +27,10 @@
 </div>
 
 ## Project
-
+* [Fully Homomorphic Privacy-Preserving Naive Bayes Machine Learning and Classification](https://dl.acm.org/doi/abs/10.1145/3605759.3625262)
+    * 2023년 2월 서울과학기술대학교 데이터사이언스학과 석사 졸업
+    * WAHC'23 발표
+      
 * Deepfake Detection Project
     * Deep Fake Detection Challenge(DFDC) 데이터를 활용 
     * 원본 동영상에 색상 변화를 주었을때의 정확도 차이를 실험 
@@ -69,19 +72,15 @@
 
 ## Study
 * 동형암호 공부
-    * 개인적으로 공부한 동형암호
     * 동형암호 시뮬레이터 pi-heaan을 활용하여 프로그래밍
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pi-heaan](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=pi-heaan&theme=buefy&show_owner=True)](https://github.com/bobo-0/pi-heaan)
 
 * 알고리즘 공부
-    * 개인적으로 공부한 알고리즘
-    * 백준, 프로그래머스 알고리즘 문제 해결
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
 
 
-* 서울과학기술대학교 데이터사이언스학과
-    * 학과 세미나시간에 알게 된 것
+* 세미나/컨퍼런스
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![seminar](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=seminar&theme=buefy&show_owner=True)](https://github.com/bobo-0/seminar)
