@@ -40,50 +40,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection)  
 
-* Segmented Style Transfer
-    * Semantic Segmentation + Style Transfer
-    * 자연에 있는 거북이 사진을 꼬북이로,,?!
-    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=artificial-intelligence&theme=buefy&show_owner=True)](https://github.com/bobo-0/artificial-intelligence)
-
 * Analysis between Cyberattacks and Tweets
     * 트위터에서 활동하는 해커들의 트윗과 실제 사이버 공격과의 연관성 파악
     * 크롤링, 그래프 네트워크, 시계열 예측
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=cyberattack&theme=buefy&show_owner=True)](https://github.com/bobo-0/cyberattack)
 
-* 전자제조데이터 분석 프로젝트
-    * 중앙해양중공업의 데이터를 활용한 프로젝트
-    * selenium을 활용한 webcrawler
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![shipbuilding](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=project_shipbuilding&theme=buefy&show_owner=True)](https://github.com/bobo-0/project_shipbuilding)
+* Segmented Style Transfer
+    * Semantic Segmentation + Style Transfer
+    * 자연에 있는 거북이 사진을 꼬북이로,,?!
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=artificial-intelligence&theme=buefy&show_owner=True)](https://github.com/bobo-0/artificial-intelligence)
 
 * Rental Service Android Application
     * Android Applicatoin
     * 학생회 물품 대여 서비스 어플리케이션 개발
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=withyou&theme=buefy&show_owner=True)](https://github.com/bobo-0/withyou)
-
-* Web platform for gig economy
-    * Building a webpage
-    * 네덜란드 헤이그 공과대학교 EPS 학기 팀 프로젝트
-    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=EuropeanProjectSemester&theme=buefy&show_owner=True)](https://github.com/bobo-0/EuropeanProjectSemester)
-
-
-
-
-## Study
-* 동형암호 공부
-    * 동형암호 시뮬레이터 pi-heaan을 활용하여 프로그래밍
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pi-heaan](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=pi-heaan&theme=buefy&show_owner=True)](https://github.com/bobo-0/pi-heaan)
-
-* 알고리즘 공부
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=algorithm&theme=buefy&show_owner=True)](https://github.com/bobo-0/algorithm)
-
-
-* 세미나/컨퍼런스
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![seminar](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=seminar&theme=buefy&show_owner=True)](https://github.com/bobo-0/seminar)
