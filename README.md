@@ -14,9 +14,7 @@
  <img src="https://img.shields.io/badge/-Project Management-lightgrey"/>&nbsp;
   <img src="https://img.shields.io/badge/-PET-green"/>&nbsp;
   <img src="https://img.shields.io/badge/-Homomorpic Encryption-brightgreen"/>&nbsp; 
- 
   <br><br>
- 
   <a href="http://data.seoultech.ac.kr/"><img src="https://img.shields.io/badge/DataScience-0d1854?style=flat-square&logo=Databricks&logoColor=white&link=http://data.seoultech.ac.kr/"/></a>&nbsp;
   <a href="https://itm.seoultech.ac.kr/"><img src="https://img.shields.io/badge/IT Management-696969?style=flat-square&logo=Google Scholar&logoColor=white&link=https://itm.seoultech.ac.kr/"/></a>&nbsp;
   <br><br>
