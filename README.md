@@ -55,4 +55,4 @@
     
 [![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=withyou&theme=buefy&show_owner=True)](https://github.com/bobo-0/withyou)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobo-0&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=bobo-0&show_icons=true">
+[![GitHub Streak](https://streak-stats.demolab.com?user=bobo-0&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&type=png)](https://git.io/streak-stats)
