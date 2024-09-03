@@ -31,11 +31,9 @@
   * WAHC'23 발표
   * IEEE Access [게재](https://ieeexplore.ieee.org/abstract/document/10623150)
       
-### 2. Deepfake Detection Project
-  * Deep Fake Detection Challenge(DFDC) 데이터를 활용 
-  * 원본 동영상에 색상 변화를 주었을때의 정확도 차이를 실험 
-  
-[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection)  
+|   AA	|BB   	|
+|:-:	|:-:	|
+|  DD 	|   CC	|
 
 ### 3. Analysis between Cyberattacks and Tweets
   * 트위터에서 활동하는 해커들의 트윗과 실제 사이버 공격과의 연관성 파악
@@ -55,4 +53,4 @@
     
 [![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=withyou&theme=buefy&show_owner=True)](https://github.com/bobo-0/withyou)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bobo-0&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&type=png)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobo-0&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=bobo-0&show_icons=true">
