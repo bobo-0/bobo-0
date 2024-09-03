@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E0bdf9&fontColor=3c0464&height=100&section=header&text=Boyoung%20Han&fontSize=50)
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=14&fontColor=000000&height=200&section=header&text=Boyoung%20Han&fontSize=50)
 
 <div align=center> 
 
