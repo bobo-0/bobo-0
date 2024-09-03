@@ -31,30 +31,27 @@
   * WAHC'23 발표
   * IEEE Access [게재](https://ieeexplore.ieee.org/abstract/document/10623150)
       
-|   ### 2. Deepfake Detection Project
+### 2. Deepfake Detection Project
   * Deep Fake Detection Challenge(DFDC) 데이터를 활용 
   * 원본 동영상에 색상 변화를 주었을때의 정확도 차이를 실험 
 
-[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection)  	|### 3. Analysis between Cyberattacks and Tweets
+[![Deepfake](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=deepfake_detection&theme=buefy&show_owner=True)](https://github.com/bobo-0/deepfake_detection) 
+### 3. Analysis between Cyberattacks and Tweets
   * 트위터에서 활동하는 해커들의 트윗과 실제 사이버 공격과의 연관성 파악
   * 크롤링, 그래프 네트워크, 시계열 예측
     
 [![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=cyberattack&theme=buefy&show_owner=True)](https://github.com/bobo-0/cyberattack)
-   	|
-|:-:	|:-:	|
-|  ### 4. Segmented Style Transfer
+
+### 4. Segmented Style Transfer
   * Semantic Segmentation + Style Transfer
   * 자연에 있는 거북이 사진을 꼬북이로,,?!
     
-[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=artificial-intelligence&theme=buefy&show_owner=True)](https://github.com/bobo-0/artificial-intelligence) 	|   ### 5.  Rental Service Android Application
+[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=artificial-intelligence&theme=buefy&show_owner=True)](https://github.com/bobo-0/artificial-intelligence)
+
+### 5.  Rental Service Android Application
   * Android Applicatoin
   * 학생회 물품 대여 서비스 어플리케이션 개발
     
 [![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=bobo-0&repo=withyou&theme=buefy&show_owner=True)](https://github.com/bobo-0/withyou)
-	|
-
-
-
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobo-0&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=bobo-0&show_icons=true">
